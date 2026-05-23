@@ -1,0 +1,6 @@
+{
+  "name": "Stamp Journal",
+  "description": "An interactive digital notebook and diary where you can write entries, customize covers, design stamps with serrated edges, and stamp them on your pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
